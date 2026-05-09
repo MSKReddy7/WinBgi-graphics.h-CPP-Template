@@ -1,0 +1,4 @@
+{
+  "makefile.configureOnOpen": true,
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+}
